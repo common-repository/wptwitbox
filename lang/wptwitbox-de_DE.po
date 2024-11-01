@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpTwitBox\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sergej Müller\n"
+"Language-Team: Sergej Müller\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Tool box with useful power tools around Twitter and Bit.ly shortener."
+msgstr "Werkzeugkasten mit praktischen Tools rund um Twitter und Bit.ly Shortener."
+
+msgid "wpTwitBox reports"
+msgstr "wpTwitBox meldet"
+
+msgid "Please sign in with Twitter"
+msgstr "Anmeldeverknüpfung mit Twitter erforderlich"
+
+msgid "requires at least WordPress 2.8 and PHP 5"
+msgstr "benötigt mindestens WordPress 2.8 und PHP 5"
+
+msgid "Bit.ly Actions"
+msgstr "Bit.ly Aktionen"
+
+msgid "Bit.ly Login"
+msgstr "Bit.ly Login"
+
+msgid "Bit.ly API Key"
+msgstr "Bit.ly API Key"
+
+msgid "Convert links to Bit.ly links in incoming comments"
+msgstr "Links in den Kommentaren in Bit.ly Links umwandeln"
+
+msgid "Keep post permalinks as cachable Bit.ly links"
+msgstr "Permalinks als Bit.ly Links im Cache aufbewahren"
+
+msgid "Use J.mp instead of Bit.ly"
+msgstr "Shortener J.mp anstatt von Bit.ly nutzen"
+
+msgid "Twitter Actions"
+msgstr "Twitter Aktionen"
+
+msgid "Sign in with Twitter"
+msgstr "Mit Twitter anmelden"
+
+msgid "Revoke access"
+msgstr "Zugriff widerrufen"
+
+msgid "Hourly update for your twitter followers count"
+msgstr "Anzahl der Follower stündlich aktualisieren"
+
+msgid "Auto Tweet: Twitter notification if new posts"
+msgstr "Auto Tweet: Bei neuen Beiträgen twittern"
+
+msgid "About"
+msgstr "Information"
+
+msgid "by"
+msgstr "von"
+
+msgid "Follow on Twitter"
+msgstr "Auf Twitter folgen"
+
+msgid "http://www.wpSEO.org"
+msgstr "http://www.wpSEO.de"
+
+msgid "Learn about wpSEO"
+msgstr "wpSEO kennenlernen"
+
